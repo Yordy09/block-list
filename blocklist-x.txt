@@ -1,0 +1,23 @@
+# x.com (antes Twitter)
+
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 help.x.com
+0.0.0.0 api.x.com
+0.0.0.0 mobile.x.com
+0.0.0.0 tweetdeck.x.com
+0.0.0.0 ads.x.com
+0.0.0.0 analytics.x.com
+0.0.0.0 dev.x.com
+0.0.0.0 video.x.com
+0.0.0.0 publish.x.com
+0.0.0.0 ton.x.com
+0.0.0.0 cards-frame.x.com
+0.0.0.0 pay.x.com
+0.0.0.0 lf.x.com
+0.0.0.0 cdn.x.com
+0.0.0.0 syndication.x.com
+0.0.0.0 t.co
+0.0.0.0 abs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 nitter.net
