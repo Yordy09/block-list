@@ -14,7 +14,6 @@
 0.0.0.0 watch.youtube.com
 0.0.0.0 support.youtube.com
 0.0.0.0 policies.youtube.com
-0.0.0.0 accounts.google.com/ServiceLogin?service=youtube
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 ytimg.com
 0.0.0.0 i.ytimg.com
